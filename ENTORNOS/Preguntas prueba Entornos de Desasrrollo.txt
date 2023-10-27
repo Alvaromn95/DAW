@@ -1,0 +1,20 @@
+﻿1. ¿Qué es el código fuente?
+ Archivo de texto legible escrito en un lenguaje de programación.
+ Archivo binario no ejecutable.
+ Archivo binario ejecutable. 
+ Ninguna de las anteriores.
+2. ¿Cuáles son las principales fases del desarrollo del software?
+Análisis, diseño, codificación, pruebas y mantenimiento.
+Análisis, diseño, desarrollo, pruebas y mantenimiento.
+Análisis, diseño, pruebas y mantenimiento.
+Todas son correctas.
+3. ¿Cuáles son las metodologías ágiles más conocidas?
+Todas son correctas.
+Kanban y Scrum.
+Kanban y XP.
+Scrum y XP
+4.  ¿Cual de las siguientes opciones es una ventaja de JAVA?                
+Todas son correctas.
+Estructurado y Orientado a Objetos
+Relativamente fácil de aprender
+Buena documentación y base de usuarios
